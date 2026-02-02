@@ -4,7 +4,9 @@ Este proyecto consiste en el diseño y control de un brazo robótico de 5 grados
 
 El sistema integra un "Gemelo Digital" (Digital Twin) que visualiza la posición del robot en tiempo real mediante cálculo matemático, sin necesidad de sensores externos en las articulaciones.
 
+BrazoFuncional.png
 
+![BrazoFuncional.png](BrazoFuncional.png)
 
 ##  Características Principales
 
